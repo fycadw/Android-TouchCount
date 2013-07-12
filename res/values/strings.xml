@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DavidTouchCountApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="count_default">零</string>
+    <string name="title_name">David 被嗆計數器 \n(Preview Version)</string>
+
+</resources>
